@@ -2,7 +2,7 @@
 title: Notes about programming.
 email: voland62@gmail.com
 description: "Place for thoughts."
-baseurl: "/zzz" # the subpath of your site, e.g. /blog/
+baseurl: "/myblog-en" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: voland_62
 github_username:  voland62
