@@ -1,7 +1,7 @@
 # Site settings
-title: Заметки
+title: Notes about programming.
 email: voland62@gmail.com
-description: "Место для записей."
+description: "Place for thoughts."
 baseurl: "/zzz" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: voland_62

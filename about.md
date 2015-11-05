@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Блог для записей.
+Blog for notes and thoughts.
